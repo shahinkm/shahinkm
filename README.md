@@ -16,8 +16,8 @@ Hey there! I'm Shahin, an AI/ML engineer who loves turning complex ideas into re
 ---
 
 ### ⚡ What I Do
-- 🧠 **LLMs & Large Models** – Working with BERT, GPT, LLaMA, and more to push the boundaries of AI 🤖
-- 🎨 **Creative AI** – Generating cool images with Stable Diffusion & GANs 🎨
+- 🧠 **LLMs & VLMs** – Training, deploying, and building applications with state-of-the-art large language and vision-language models 🤖  
+- 🎨 **Creative AI** – Training and leveraging Stable Diffusion to create stunning and innovative images 🎨 
 - 📄 **Document AI** – Building smart tools for document understanding and extraction 📝
 - 🛠 **AI Tools** – PyTorch, Huggingface, LangChain… the usual suspects 🔧
 
