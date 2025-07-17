@@ -1,6 +1,6 @@
 # 👨‍💻 Shahin Shah Kozhimadam
 
-🚀 **AI/ML Engineer | MSc AI Student**  
+🚀 **AI/ML Engineer | MSc AI (NTU, Singapore)**  
 🎮 **Gamer | Tech Enthusiast | Problem Solver**  
 📍 Singapore  
 
